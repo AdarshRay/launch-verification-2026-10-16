@@ -1,0 +1,24 @@
+{
+  "id": "086b9117-beeb-47e1-a58c-b8eca1ef2031",
+  "name": "Launch Verification 2026-10-16",
+  "root": {
+    "person": {
+      "id": "140a85ed-3c95-453d-981e-9dacd837e548",
+      "name": "Launch Test Founder",
+      "photo": null,
+      "gender": "m"
+    }
+  },
+  "snapshot": {
+    "overrides": {},
+    "structure": {
+      "removed": [],
+      "renames": {},
+      "spouseOf": {},
+      "parentsOf": {},
+      "childrenOf": {}
+    },
+    "updatedAt": "2026-10-15T19:21:50.421Z"
+  },
+  "publishedAt": "2026-10-15T19:22:35.660Z"
+}
